@@ -17,3 +17,9 @@ The solution consists in the implementation of an optimized version of Dijkstra'
 ### Assignment and Evaluation Criteria
 
 Further explanation on the assignment and on the evaluation criteria can be found in the [official project presentation PDF](https://github.com/giacomolmb/API_Project_2021/blob/main/Presentazione%20Prova%20Finale%202021.pdf) (Italian language).
+
+---
+
+### How to run the project
+
+To run this project, simply compile the file `main.c` and provide a correct input. In the `open_tests` folder, there are input files that can be used as an example. 
