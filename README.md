@@ -1,4 +1,4 @@
-# API Project A.A.2020/21
+# API Project A.Y. 2020/21
 Project for API (Algorithms and Principles of Computer Science) course
 
 Author: Giacomo Lombardo 
